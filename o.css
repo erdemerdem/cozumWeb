@@ -1,0 +1,105 @@
+/*header kısım başlangıç*/
+
+header {
+    width: 100%;
+    height:400px;
+
+    top: 0px;
+    position:absolute;
+    left: 0;
+
+}
+.well-sm {
+    width: 50%;
+    height: 20px;
+    background: #31353e;
+    position: relative;
+    top: 0;
+    left: 18.9%;
+}
+.anamenu {position:absolute;
+    width: 60%;
+   bottom: 0px;
+    left: 18.9%;
+}
+
+.anamenuul {
+    text-align: center;
+    background: black;
+}
+
+.anamenu li {
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.78);
+    list-style: none;
+    padding: 40px 50px;
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.71);
+    width: 220px;
+}
+
+.anamenuul li a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.anamenuul li:hover {
+    background: #3598db;
+}
+.logo {
+    position:relative;
+    top: 50px;
+    left:18.9%;
+    height: 108px;
+    width: 218px;
+}
+
+/*header kısım bitiş*/
+/*main kısım başlangıç*/
+main{position: relative;width: 100%;top: 400px;}
+
+.cizgi .well-sm {
+    background: #3598db;
+    width: 59.9%;
+    height: 20px;
+    position: relative;
+    bottom: 0px;
+    border-style: none;
+    left: 18.9%;
+
+}
+.col-md-3{padding: 0px 60px;}
+.karusel{position: relative;height: 900px;}
+.alt{position: relative;top: 50px;left: 150px;}
+.jumbotron{position:relative;height: 600px;}
+.col-sm-4{left: 21%;}
+
+.well{background: #22252c;position: relative;bottom: -319px;left: 21%;width: 57.9%;border-style: none;}
+
+.çözüm{color: #5d616a;}
+.son1{left: 19%;position: relative;}
+.son{float: left;padding: 5px 100px;}
+
+.karuselyazi{position:relative;top: -350px;left: 21%;width: 59.9%;height: 300px;}
+.carousel-caption{left: 21%;}
+.carousel-control.left{background: none;}
+.carousel-control.right{background: none;}
+.ressim{position: relative;left: 150px;}
+.alan{position: absolute;top: 2430px;height: 400px;background: #31353e;width: 100%;}
+.css{width: 59.9%;height: 70px;left: 18.9%;position: absolute;bottom: 0px;background: #22252c;}
+.telif{left:10px;top: 40%;position: relative;font-size: 15px;color: #636770;}
+
+em{font-size: 20px;color: white;}
+.son{float: left;padding: 0px 30px;position: relative;top: 0px;color: #636770; top: 100px;list-style: none;padding: 0px 60px;}
+.tasarım{color: #636770;}
+h4{color:#3598db}
+.fa-chrome{color:#3598db;}
+.fa-twitter-square{color:#3598db;}
+.fa-foursquare{color:#3598db;}
+.fa-home{color:#3598db;}
+.fa-phone{color:#3598db;}
